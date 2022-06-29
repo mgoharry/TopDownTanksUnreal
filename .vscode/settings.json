@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"F:/Game Dev/Projects/ToonTanks/.vscode": true,
+		"F:/Game Dev/Projects/ToonTanks/Content": true,
+		"F:/Game Dev/Projects/ToonTanks/DerivedDataCache": true,
+		"F:/Game Dev/Projects/ToonTanks/Intermediate": true,
+		"F:/Game Dev/Projects/ToonTanks/Saved": true
+	}
+}
